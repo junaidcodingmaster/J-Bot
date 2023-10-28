@@ -1,4 +1,4 @@
-# A Robot [J-Bot]
+# J-Bot
 
 This is an 3D model that is created by using [A-Frame](https://aframe.io).
 
@@ -26,22 +26,19 @@ Here, I combined
 
 I got inspiration from "Wall-E" and "Interstellar" movies , where robots play a crucial role in space exploration.
 
-Try Your Self => [url_here](https://)
+Try Yourself => <code>https://junaidcodingmaster.github.io/J-Bot</code>
 
 ## Download
 
-Download my 3D model 
+Download my 3D model
 
-| File Name    | File Type | File Size | Version |Download                  |
-| :----------: | :-------: | :-------: | :-----: | :----------------------: | 
-| `J-bot.glb`  | `.glb`    | `267 KB`  | v1.0    |[J-bot.glb](./J-bot.glb)| 
+|  File Name  | File Type | File Size | Version |         Download         |
+| :---------: | :-------: | :-------: | :-----: | :----------------------: |
+| `J-bot.glb` |  `.glb`   | `267 KB`  |  v1.0   | [J-bot.glb](./J-bot.glb) |
 
-| Preview                         | URL             |
-| :-----------------------------: | :-----------:   |
-| By Google's Model Viewer        | [LOAD MODEL]()  |
-| By A-Frames's Load GLB Viewer   | [LOAD MODEL]()  |
-
-
-
+|            Preview            |                              URL                               |
+| :---------------------------: | :------------------------------------------------------------: |
+|   By Google's Model Viewer    |    [LOAD MODEL](https://rebrand.ly/J-bot-google-3D-viewer)     |
+| By A-Frames's Load GLB Viewer | [LOAD MODEL](https://rebrand.ly/J-Bot-A-frame-3D-model-viewer) |
 
 Made By [Junaid](https://abujuni.dev) .
