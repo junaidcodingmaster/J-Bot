@@ -10,7 +10,7 @@ In this project, I've crafted a 3D model and added:
 
 - **360° Lighting** to beautifully showcase my creation.
 - **3D metallic surface texture** for a futuristic look.
-- **Custom Textures** , just see your self in `./img` folder .
+- **Custom Textures** , just see your self in `./textures` folder .
 
 ## Theme
 
