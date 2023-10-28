@@ -39,6 +39,6 @@ Download my 3D model
 |            Preview            |                              URL                               |
 | :---------------------------: | :------------------------------------------------------------: |
 |   By Google's Model Viewer    |    [LOAD MODEL](https://rebrand.ly/J-bot-google-3D-viewer)     |
-| By A-Frames's Load GLB Viewer | [LOAD MODEL](https://rebrand.ly/J-Bot-A-frame-3D-model-viewer) |
+| By A-Frames's Load GLB Viewer |    [LOAD MODEL](https://tinyurl.com/J-Bot-A-Frame-3D-viewer)   |
 
 Made By [Junaid](https://abujuni.dev) .
